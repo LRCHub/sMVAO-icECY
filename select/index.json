@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "始まりのバラード",
+  "base_artist": "Angela Aki",
+  "createdAt": "2026-03-08T06:45:50.670914Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "始まりのバラード - Hajimari No Ballad",
+      "artist": "Angela Aki",
+      "has_synced": true,
+      "path": "select/01_始まりのバラード_-_Hajimari_No_Ballad_Angela_Aki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "始まりのバラード",
+      "artist": "アンジェラ・アキ",
+      "has_synced": true,
+      "path": "select/02_始まりのバラード_アンジェラ・アキ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "始まりのバラード",
+      "artist": "アンジェラ・アキ",
+      "has_synced": true,
+      "path": "select/03_始まりのバラード_アンジェラ・アキ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "始まりのバラード",
+      "artist": "Angela Aki",
+      "has_synced": false,
+      "path": "select/04_始まりのバラード_Angela_Aki.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hajimari no Ballad (始まりのバラード)",
+      "artist": "Angela Aki (アンジェラ・アキ)",
+      "has_synced": true,
+      "path": "select/05_Hajimari_no_Ballad_(始まりのバラード)_Angela_Aki_(アンジェラ・アキ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "始まりのバラード",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_01_始まりのバラード_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "始まりのバラード",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_02_始まりのバラード_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "始まりのバラード",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_03_始まりのバラード_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "始まりのバラード",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_04_始まりのバラード_アンジェラ・アキ.txt"
+    }
+  ]
+}
